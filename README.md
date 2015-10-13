@@ -1,9 +1,9 @@
-# Dropwizard + Gradle = &hearts;
 
-Minimal example of getting Dropwizard going with Gradle. (instead of Maven)
+# Dropwizard application using gradle
 
-Because the only thing I hate more than Java is XML.
+ This is a hello world application using gradle and dropwizard.
+ Can be used as a seed project for such kind of application.
 
-## Gotchas
+ This is the as per the [dropwizard tutorial](https://dropwizard.github.io/dropwizard/getting-started.html) with maven.
+ I have used gradle instead of dropwizard.
 
-You need Gradle 1.1, otherwise you'll run into a [dependency resolution bug](http://issues.gradle.org/browse/GRADLE-2285).
